@@ -1,0 +1,23 @@
+{
+  "name": "koa-noop",
+  "version": "0.0.1",
+  "description": "return a noop middleware for some specific usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "noop",
+    "middleware"
+  ],
+  "author": "Jeremial",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jeremial/koa-noop"
+  },
+  "bugs": {
+    "url": "https://github.com/Jeremial/koa-noop/issues"
+  },
+  "homepage": "https://github.com/Jeremial/koa-noop"
+}
