@@ -1,6 +1,6 @@
 {
   "name": "koa-noop",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "return a noop middleware for some specific usage",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,14 @@
     "noop",
     "middleware"
   ],
-  "author": "Jeremial",
+  "author": "Treri",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jeremial/koa-noop"
+    "url": "https://github.com/Treri/koa-noop"
   },
   "bugs": {
-    "url": "https://github.com/Jeremial/koa-noop/issues"
+    "url": "https://github.com/Treri/koa-noop/issues"
   },
-  "homepage": "https://github.com/Jeremial/koa-noop"
+  "homepage": "https://github.com/Treri/koa-noop"
 }
