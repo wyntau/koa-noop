@@ -1,3 +1,3 @@
-module.exports = function *noop(next){
-    yield next;
+module.exports = function(ctx, next){
+    return next();
 };
