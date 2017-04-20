@@ -1,3 +1,3 @@
-module.exports = function(ctx, next){
+module.exports = function(_, next){
     return next();
 };
